@@ -1,2 +1,2 @@
-# creation dun site de tipe vitrine a partire d'un them
+# creation dun site de site vitrine a partire d'un them
 ## Donnez moi vos avis 
